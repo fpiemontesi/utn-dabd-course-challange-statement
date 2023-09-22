@@ -26,3 +26,6 @@ Nota:
 	- Es necesaria la utilización de servicios.
 
 Diagrama de componentes:
+
+![image](https://github.com/fpiemontesi/utn-dabd-course-challange-statement/assets/32469880/f72513ac-3dc0-4082-a424-38503d43af0f)
+
